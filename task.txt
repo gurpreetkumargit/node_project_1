@@ -1,0 +1,13 @@
+Tasks 
+
+/user -> get users all data in html
+
+/api -> to get all data in json
+Get /api/users = Get all users - Done
+Get /api/user/1 = Get the user with Id 1 - Done
+
+Post /api/user = Create a new User
+
+Patch /api/user/1 = Edit the user with Id 1
+
+Delete /api/delete/1 = Delete the user with Id 1
